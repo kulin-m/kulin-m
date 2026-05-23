@@ -193,7 +193,15 @@ Designed and built a **Rajasthan tourism website** showcasing famous places and 
 
 ---
 
+## 🎓 Education
 
+| Degree | Institution | Year | Score |
+|--------|------------|------|-------|
+| 🎓 B.Tech — CSE (AI/ML Specialization) | Vellore Institute of Technology, Chennai | 2023 – Present | GPA: **8.92 / 10** |
+| 📘 RBSE 12th Grade | Rajasthan, India | 2021 – 2022 | **85.4%** |
+| 📗 CBSE 10th Grade | Rajasthan, India | 2019 – 2020 | **88%** |
+
+---
 
 ## 🏆 Certifications
 
@@ -218,17 +226,50 @@ Designed and built a **Rajasthan tourism website** showcasing famous places and 
 
 ---
 
+## 🌐 Digital Portfolio × 🤝 InAmigos
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║           [ SYSTEM_STATUS: ACTIVE ]                      ║
+║           DIGITAL PORTFOLIO // KULIN MATHUR              ║
+║           AI/ML SPECIALIST // VIT CHENNAI                ║
+║           PARTNER: InAmigos  //  MISSION: COMPLETE ✅    ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> 🖥️ Explore the full interactive portfolio at:
+> ### **[anchor4ub.wixsite.com/digital-portfolio](https://anchor4ub.wixsite.com/digital-portfolio)**
+
+This digital portfolio was **created in partnership and under the guidance of InAmigos** — built as a collaborative task that brought together design thinking, AI tooling, and real-world deployment.
+
+- 🤝 **Powered by InAmigos** — conceived, guided, and delivered as a joint initiative with the InAmigos team
+- 🔐 Cyberpunk-themed command center UI with live system status indicators and coordinate tracking
+- 📂 Full project showcase including YouTube RAG Q&A, ESLRS, ADAS simulation, and more
+- 📡 Integrated contact channel, GitHub repo explorer, and live resume link
+- 🤖 **Completed using Wix AI** — leveraging Wix's AI-powered site builder and design frameworks to craft a production-grade, responsive portfolio with zero traditional coding overhead
+
+> *"Where algorithms meet aesthetics — built with InAmigos."*
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Kulin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kulin-m&show_icons=true&theme=tokyonight&hide_border=true)
+![Kulin's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kulin-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kulin-m&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kulin-m&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kulin-m&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kulin-m&theme=tokyonight&hide_border=true)
 
 </div>
 
+---
 
+## ✍️ Dev Quote
 
+> *"First, solve the problem. Then, write the code."* — John Johnson
